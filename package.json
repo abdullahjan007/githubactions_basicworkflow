@@ -1,0 +1,13 @@
+{
+  "name": "github-actions-basic-practice",
+  "version": "1.0.0",
+  "description": "Tiny app to practice GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
